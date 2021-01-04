@@ -1,0 +1,22 @@
+"C:\Users\Surya Teja\AppData\Local\Android\Sdk\emulator\emulator.exe" -list-avds
+
+"C:\Users\Surya Teja\AppData\Local\Android\Sdk\emulator\emulator.exe" -avd Pixel_4_XL_API_30
+
+emulator -list-avds
+
+emulator -avd Pixel_4_XL_API_30
+
+react-native start 
+
+react-native run-android
+
+###########################
+
+https://github.com/jayasai306/FaceGram
+When using git clone username@.......git
+
+After your changes
+git add . 
+Git commit -m "msg"
+Git push origin
+
